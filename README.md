@@ -1,44 +1,47 @@
-<h1 align="center">Olá, eu sou Apollo Andeson</h1>
+<h1 align="center">Olá, eu sou Apollo Andeson! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ApolloAndeson&label=Profile%20Views&color=0e75b6&style=flat" alt="ApolloAndeson" />
+  <a href="https://github.com/ApolloAndeson">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Estudante+de+Inform%C3%A1tica;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
- 🎓 <b>Estudante de Informática no IFPB Itaporanga (Vespertino)</b>
-</p>
-
-<p align="center">
-  Atualmente estou no 3º ano e dedico meus estudos a compreender os fundamentos do desenvolvimento de software e a base da computação.
+  <img src="https://komarev.com/ghpvc/?username=ApolloAndeson&label=Visualizações&color=0e75b6&style=flat-square" alt="ApolloAndeson" />
 </p>
 
 ---
 
-### 💻 O que estou estudando por fora:
+### 👨‍💻 Sobre mim
 
-* **Java:** Foco em Orientação a Objetos, alocação de memória e estruturas de dados.
-* **HTML:** Compreensão da estrutura web e construção de interfaces.
-* **SQL:** Manipulação de dados e integração com bancos relacionais.
+- 🎓 Estudante do 3º ano de **Informática** no **IFPB Itaporanga** (Vespertino).
+- 🚀 Dedicado a compreender os fundamentos do desenvolvimento de software e a base da computação.
+- 💡 Focado em estruturação web, orientação a objetos, algoritmos e manipulação de dados.
 
 ---
 
-### 🛠 Tecnologias
+### 🛠️ Tecnologias que estudo
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL / SQL" />
 </div>
 
 ---
 
-### 📬 Contato
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="mailto:apolloandeson8@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/apollo_andeson/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApolloAndeson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApolloAndeson&layout=compact&langs_count=5&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
+
+---
+
+### 📬 Como me encontrar
+
+<div align="center">
+  <a href="mailto:apolloandeson
